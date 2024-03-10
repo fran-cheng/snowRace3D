@@ -1,0 +1,9 @@
+键,名字,顺序,模型预设,商城有色图片,商城描边图片,商城高光图片,解锁关卡序号,解锁金币
+key,name,sort,prefab,colorImage,outlineImage,hightlightImage,gainlevel,cost
+num,str,num,str,str,str,str,num,num
+1,小圆,1,Player_0,comp/jiesuan_tb_pifu0a.png,,,0,0
+2,小方,2,Player_1,comp/jiesuan_tb_pifu4a.png,comp/jiesuan_tb_pifu4.png,comp/jiesuan_tb_pifu4b.png,3,300
+3,水滴,3,Player_3,comp/jiesuan_tb_pifu1a.png,comp/jiesuan_tb_pifu1.png,comp/jiesuan_tb_pifu1b.png,6,800
+4,皮卡,4,Player_5,comp/jiesuan_tb_pifu2a.png,comp/jiesuan_tb_pifu2.png,comp/jiesuan_tb_pifu2b.png,9,1200
+5,男孩,5,Player_2,comp/jiesuan_tb_pifu5a.png,comp/jiesuan_tb_pifu5.png,comp/jiesuan_tb_pifu5a.png,12,1200
+6,女孩,6,Player_4,comp/jiesuan_tb_pifu3a.png,comp/jiesuan_tb_pifu3.png,comp/jiesuan_tb_pifu3b.png,18,1200
